@@ -1,8 +1,10 @@
 # Vue Awesome
 ![Another awesome collection of open source icons](/vue_awesome.png)
 
+Vue Awesome is another awesome collection of 170 open source icons.
+
 ## Usage
-You can manage the icons using the [IcoMoon Platform](https://icomoon.io/), just import the file `vue_awesome.json`. To use like a web font check the font folder.
+You can manage the icons using the [IcoMoon Platform](https://icomoon.io/), just import the file `vue_awesome.json`. To use like a web font check the css folder.
 
 ## Credits
 * [ProSymbols](https://thenounproject.com/prosymbols/)
