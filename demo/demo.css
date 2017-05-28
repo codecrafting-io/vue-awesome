@@ -1,0 +1,277 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 1em;
+  line-height: 1.5;
+  color: #555;
+  background: #fff;
+}
+h1 {
+  font-size: 1.5em;
+  font-weight: normal;
+  box-shadow: 0 1px #ddd, 0 2px #fff, 0 3px #ddd;
+}
+small {
+  font-size: .66666667em;
+}
+a {
+  color: #e74c3c;
+  text-decoration: none;
+}
+a:hover, a:focus {
+  box-shadow: 0 1px #e74c3c;
+}
+.bshadow0, input {
+  box-shadow: inset 0 -2px #e7e7e7;
+}
+input:hover {
+  box-shadow: inset 0 -2px #ccc;
+}
+input, fieldset {
+  font-size: 1em;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+input {
+  color: inherit;
+  line-height: 1.5;
+  height: 1.5em;
+  padding: .25em 0;
+}
+input:focus {
+  outline: none;
+  box-shadow: inset 0 -2px #449fdb;
+}
+.glyph {
+  font-size: 16px;
+  margin-right: 1.5em;
+  float: left;
+  width: 7em;
+}
+svg {
+  color: #000;
+}
+.liga {
+  width: 80%;
+  width: calc(100% - 2.5em);
+}
+.talign-right {
+  text-align: right;
+}
+.talign-center {
+  text-align: center;
+}
+.bgc1 {
+  background: #f1f1f1;
+}
+.fgc0 {
+  color: #000;
+}
+.fgc1 {
+  color: #999;
+}
+p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.mvm {
+  margin-top: .75em;
+  margin-bottom: .75em;
+}
+.mtn {
+  margin-top: 0;
+}
+.mtl, .mal {
+  margin-top: 1.5em;
+}
+.mbl, .mal {
+  margin-bottom: 1.5em;
+}
+.mal, .mhl {
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+}
+.mhmm {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+.ptl {
+  padding-top: 1.5em;
+}
+.pbs, .pvs {
+  padding-bottom: .25em;
+}
+.pvs, .pts {
+  padding-top: .25em;
+}
+.unit {
+  float: left;
+}
+.unitRight {
+  float: right;
+}
+.size1of2 {
+  width: 50%;
+}
+.size1of1 {
+  width: 100%;
+}
+.clearfix:before, .clearfix:after {
+  content: " ";
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+.hidden-true {
+  display: none;
+}
+.textbox0 {
+  width: 3em;
+  background: #f1f1f1;
+  padding: .25em .5em;
+  line-height: 1.5;
+  height: 1.5em;
+}
+.fs0 {
+  font-size: 16px;
+}
+.fs1 {
+  font-size: 48px;
+}
+.name {
+  font-size: 0.5em;
+  margin-left: 1em;
+}
+
+.vue {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.vue-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.vue-bell {
+  width: 0.8955078125em;
+}
+
+.vue-binocollars {
+  width: 1.1875em;
+}
+
+.vue-bit-ghost {
+  width: 0.9375em;
+}
+
+.vue-bit-pacman {
+  width: 0.875em;
+}
+
+.vue-bot-rosie {
+  width: 1.3955078125em;
+}
+
+.vue-camera {
+  width: 1.2294921875em;
+}
+
+.vue-cart {
+  width: 1.1044921875em;
+}
+
+.vue-chess-tower {
+  width: 0.8125em;
+}
+
+.vue-clip {
+  width: 0.9580078125em;
+}
+
+.vue-comment {
+  width: 1.125em;
+}
+
+.vue-desktop {
+  width: 0.6044921875em;
+}
+
+.vue-dollar {
+  width: 0.5625em;
+}
+
+.vue-excel {
+  width: 1.0625em;
+}
+
+.vue-folder {
+  width: 1.1875em;
+}
+
+.vue-folder-zip {
+  width: 1.1875em;
+}
+
+.vue-forklift {
+  width: 1.1669921875em;
+}
+
+.vue-fragile {
+  width: 0.5830078125em;
+}
+
+.vue-gamepad {
+  width: 1.3955078125em;
+}
+
+.vue-id-card {
+  width: 1.2919921875em;
+}
+
+.vue-key {
+  width: 0.9794921875em;
+}
+
+.vue-keyboard {
+  width: 1.2705078125em;
+}
+
+.vue-megaphone {
+  width: 0.9794921875em;
+}
+
+.vue-paint-roller {
+  width: 0.8544921875em;
+}
+
+.vue-printer {
+  width: 1.2919921875em;
+}
+
+.vue-tools {
+  width: 0.7080078125em;
+}
+
+.vue-trophy {
+  width: 1.125em;
+}
+
+.vue-truck {
+  width: 1.2080078125em;
+}
+
+.vue-users {
+  width: 1.3544921875em;
+}
+

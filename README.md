@@ -4,7 +4,11 @@
 Vue Awesome is another awesome collection of 170 open source outline icons.
 
 ## Usage
-You can manage the icons using the [IcoMoon Platform](https://icomoon.io/), just import the file `vue_awesome.json`. To use like a web font check the css folder.
+You can manage the icons using the [IcoMoon Platform](https://icomoon.io/), just import the file `vue_awesome.json`. To use like a web font check the dist folder or you can install via bower like:
+
+```
+bower install vue-awesome-icons
+```
 
 ## Credits
 * [ProSymbols](https://thenounproject.com/prosymbols/)
