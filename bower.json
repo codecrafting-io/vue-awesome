@@ -26,7 +26,7 @@
   "dependencies": {},
   "devDependencies": {},
   "main": [
-    "dist/css/vue_awesome.min.css",
+    "dist/css/vue_awesome.css",
     "dist/css/vuw_awesome.less"
   ]
 }
