@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Vue Awesome';
-  src: url('../fonts/Vue-Awesome.woff2?88umy7') format('woff2'), url('../fonts/Vue-Awesome.ttf?88umy7') format('truetype'), url('../fonts/Vue-Awesome.woff?88umy7') format('woff'), url('../fonts/Vue-Awesome.svg?88umy7#Vue-Awesome') format('svg');
+  src: url('../fonts/Vue-Awesome.woff2?xqx477') format('woff2'), url('../fonts/Vue-Awesome.ttf?xqx477') format('truetype'), url('../fonts/Vue-Awesome.woff?xqx477') format('woff'), url('../fonts/Vue-Awesome.svg?xqx477#Vue-Awesome') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -160,20 +160,20 @@
 .vue-emoti-angry:before {
   content: "\e92f";
 }
-.vue-emoti-angry2:before {
-  content: "\e930";
+.vue-emoti-furious:before {
+  content: "\e934";
 }
 .vue-emoti-baffled:before {
-  content: "\e931";
+  content: "\e930";
 }
 .vue-emoti-confused:before {
-  content: "\e932";
+  content: "\e931";
 }
 .vue-emoti-cool:before {
-  content: "\e933";
+  content: "\e932";
 }
 .vue-emoti-crying:before {
-  content: "\e934";
+  content: "\e933";
 }
 .vue-emoti-happy:before {
   content: "\e935";
@@ -424,111 +424,108 @@
 .vue-reply:before {
   content: "\e987";
 }
-.vue-reply2:before {
+.vue-rewind:before {
   content: "\e988";
 }
-.vue-rewind:before {
+.vue-right:before {
   content: "\e989";
 }
-.vue-right:before {
+.vue-scissors:before {
   content: "\e98a";
 }
-.vue-scissors:before {
+.vue-server:before {
   content: "\e98b";
 }
-.vue-server:before {
+.vue-share:before {
   content: "\e98c";
 }
-.vue-share:before {
+.vue-shuffle:before {
   content: "\e98d";
 }
-.vue-shuffle:before {
+.vue-signal:before {
   content: "\e98e";
 }
-.vue-signal:before {
+.vue-sitemap:before {
   content: "\e98f";
 }
-.vue-sitemap:before {
+.vue-sliders:before {
   content: "\e990";
 }
-.vue-sliders:before {
+.vue-soundwave:before {
   content: "\e991";
 }
-.vue-soundwave:before {
+.vue-spinner:before {
   content: "\e992";
 }
-.vue-spinner:before {
+.vue-star:before {
   content: "\e993";
 }
-.vue-star:before {
+.vue-stop:before {
   content: "\e994";
 }
-.vue-stop:before {
+.vue-suitcase:before {
   content: "\e995";
 }
-.vue-suitcase:before {
+.vue-support:before {
   content: "\e996";
 }
-.vue-support:before {
+.vue-tag:before {
   content: "\e997";
 }
-.vue-tag:before {
+.vue-text:before {
   content: "\e998";
 }
-.vue-text:before {
+.vue-thumbs-down:before {
   content: "\e999";
 }
-.vue-thumbs-down:before {
+.vue-thumbs-up:before {
   content: "\e99a";
 }
-.vue-thumbs-up:before {
+.vue-tools:before {
   content: "\e99b";
 }
-.vue-tools:before {
+.vue-trash:before {
   content: "\e99c";
 }
-.vue-trash:before {
+.vue-trophy:before {
   content: "\e99d";
 }
-.vue-trophy:before {
+.vue-truck:before {
   content: "\e99e";
 }
-.vue-truck:before {
+.vue-twitter:before {
   content: "\e99f";
 }
-.vue-twitter:before {
+.vue-umbrella:before {
   content: "\e9a0";
 }
-.vue-umbrella:before {
+.vue-untagged:before {
   content: "\e9a1";
 }
-.vue-untagged:before {
+.vue-up:before {
   content: "\e9a2";
 }
-.vue-up:before {
+.vue-upload:before {
   content: "\e9a3";
 }
-.vue-upload:before {
+.vue-user:before {
   content: "\e9a4";
 }
-.vue-user:before {
+.vue-users:before {
   content: "\e9a5";
 }
-.vue-users:before {
+.vue-volume:before {
   content: "\e9a6";
 }
-.vue-volume:before {
+.vue-warning:before {
   content: "\e9a7";
 }
-.vue-warning:before {
+.vue-youtube:before {
   content: "\e9a8";
 }
-.vue-youtube:before {
+.vue-zoom-in:before {
   content: "\e9a9";
 }
-.vue-zoom-in:before {
-  content: "\e9aa";
-}
 .vue-zoom-out:before {
-  content: "\e9ab";
+  content: "\e9aa";
 }
