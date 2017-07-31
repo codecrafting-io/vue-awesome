@@ -1,7 +1,7 @@
 # Vue Awesome
 ![Another awesome collection of open source icons](vue_awesome.png)
 
-Vue Awesome is another awesome collection of 170+ open source outline icons.
+Vue Awesome is another awesome collection of 170+ open source icons.
 
 See [demo](https://codecrafting-net.github.io/vue-awesome/demo)
 
