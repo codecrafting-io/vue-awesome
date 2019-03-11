@@ -1,0 +1,38 @@
+{
+  "name": "vue-awesome-icons",
+  "version": "1.2.0",
+  "description": "Vue Awesome is another awesome collection of open source outline icons",
+  "main": [
+    "dist/css/vue_awesome.css",
+    "dist/css/vue_awesome.less",
+    "dist/css/vue_awesome.scss"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codecrafting-net/vue-awesome.git"
+  },
+  "keywords": [
+    "font",
+    "css",
+    "less",
+    "front-end",
+    "web-font",
+    "web"
+  ],
+  "ignore": [
+    "**/.*",
+    "*.md",
+    "src",
+    "temp",
+    "node_modules",
+    "bower_components",
+    "vue_awesome.png",
+    "vue_awesome.json"
+  ],
+  "author": "Lucas Marotta <lucas.casul@gmail.com>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/codecrafting-net/vue-awesome/issues"
+  },
+  "homepage": "https://codecrafting-net.github.io/vue-awesome/"
+}
