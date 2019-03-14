@@ -1,6 +1,6 @@
 {
   "name": "vue-awesome-icons",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Vue Awesome is another awesome collection of open source outline icons",
   "style": "dist/css/vue_awesome.css",
   "sass": "dist/css/vue_awesome.scss",
