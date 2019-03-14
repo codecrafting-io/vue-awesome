@@ -6,7 +6,15 @@ Vue Awesome is another awesome collection of 170+ open source icons.
 See [demo](https://codecrafting-net.github.io/vue-awesome/demo)
 
 ## Usage
-You can manage the icons using the [IcoMoon Platform](https://icomoon.io/), just import the file `vue_awesome.json`. To use like a web font check the dist folder or you can install via bower like:
+You can manage the icons using the [IcoMoon Platform](https://icomoon.io/), just import the file `vue_awesome.json`. To use like a web font check the dist folder or you can install via ***yarn*** or ***bower*** like:
+
+### Yarn
+
+```
+yarn add vue-awesome-icons
+```
+
+### Bower
 
 ```
 bower install vue-awesome-icons
